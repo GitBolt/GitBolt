@@ -21,7 +21,6 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 
 <br>
 
-
 ### Languages & Technologies I use or have experience with
 
 <div><!-- make img inline -->
@@ -51,3 +50,11 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 <img src="icons/yarn.svg" width="30px">
 
 </div>
+
+# 
+
+<img
+    alt="Axiol"
+    src="https://github-readme-stats.vercel.app/api?username=gitbolt&count_private=true"
+    width="600"
+/>
