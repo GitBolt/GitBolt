@@ -27,14 +27,14 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 <div><!-- make img inline -->
 <img src="icons/python.svg" width="30px">
 <img src="icons/js.svg" width="30px">
-<img src="icons/rust.svg" width="30px">
+<img src="icons/rust.svg" width="32px" height="32px">
 <img src="icons/c.svg" width="30px">
 <img src="icons/html.svg" width="30px">
 <img src="icons/css.svg" width="30px">
-<img src="icons/mongodb.svg" width="30px" height="30px">
+<img src="icons/mongodb.svg" width="30px" height="35px">
 <img src="icons/postgresql.svg" width="30px">
 <img src="icons/redis.svg" width="30px">
-<img src="icons/gcloud.svg" width="30px">
+<img src="icons/gcloud.svg" width="30px" height="35px">
 <img src="icons/nodejs.svg" width="30px">
 <img src="icons/fastapi.svg" width="30px">
 <img src="icons/django.svg" width="30px">
@@ -44,11 +44,10 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 <img src="icons/chartjs.svg" width="30px">
 <img src="icons/rocketrs.svg" width="30px">
 <img src="icons/sass.svg" width="30px">
-<img src="icons/tailwindcss.svg" width="30px">
-<img src="icons/docker.svg" width="30px">
-<img src="icons/neovim.svg" width="30px">
+<img src="icons/tailwindcss.svg" width="30px" height="30px">
+<img src="icons/docker.svg" width="30px" height="30px">
+<img src="icons/neovim.svg" width="30px" height="30px">
 <img src="icons/git.svg" width="30px">
 <img src="icons/yarn.svg" width="30px">
 
 </div>
-
