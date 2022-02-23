@@ -7,13 +7,13 @@ I love [Open-source](https://en.wikipedia.org/wiki/Open_source) and use [KDE Neo
 These days, I'm messing around with Web3 and [Solana](https://solana.com)
 
 <a href="https://twitter.com/0xBolt">
-  <img align="left" alt="My Twitter" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="My Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.com/user/791950104680071188">
   <img align="left" alt="My Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://reddit.com/u/0xSAA">
-  <img align="left" alt="My Reddit" width="30px" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" />
+  <img align="left" alt="My Reddit" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://dev.to/0xbolt/">
   <img align="left" alt="My Dev to" width="30px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
