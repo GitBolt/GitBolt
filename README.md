@@ -2,7 +2,7 @@
 
 I'm Bolt, also known as 0xBolt sometimes. I'm a random 15 year old self taught programmer.
 <br><br>
-I love [Open-source](https://en.wikipedia.org/wiki/Open_source) and use [EndeavourOS](https://endeavouros.org) as my *current* operating system.
+I love [Open-source](https://en.wikipedia.org/wiki/Open_source) and use [EndeavourOS](https://endeavouros.com) as my *current* operating system.
 <br>
 These days, I'm messing around with Web3 and [Solana](https://solana.com)
 
