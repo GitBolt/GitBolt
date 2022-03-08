@@ -33,6 +33,7 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 <img src="icons/mongodb.svg" width="30px" height="35px">
 <img src="icons/postgresql.svg" width="30px">
 <img src="icons/redis.svg" width="30px">
+<img src="icons/prisma.svg" width="30px">
 <img src="icons/gcloud.svg" width="30px" height="35px">
 <img src="icons/nodejs.svg" width="30px">
 <img src="icons/fastapi.svg" width="30px">
