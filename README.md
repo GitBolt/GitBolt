@@ -1,8 +1,8 @@
 # Heya 👋
 
-I'm Bolt, also known as 0xBolt sometimes. I'm a random 15 year old self taught programmer.
+I'm Bolt, also known as 0xBolt sometimes. Just a random 15 year old self taught programmer. Oh also, I absolutely love cats!
 <br><br>
-I love [Open-source](https://en.wikipedia.org/wiki/Open_source) and use [EndeavourOS](https://endeavouros.com) as my *current* operating system.
+I love open source and use [EndeavourOS](https://endeavouros.com) as my *current* operating system.
 <br>
 These days, I'm messing around with Web3 and [Solana](https://solana.com)
 
@@ -59,7 +59,7 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 # 
 
 <img
-    alt="Axiol"
+    alt="stats"
     src="https://github-readme-stats.vercel.app/api?username=gitbolt&count_private=true"
     width="600"
 />
