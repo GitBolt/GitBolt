@@ -1,6 +1,6 @@
 # Heya 👋
 
-I'm Bolt, also known as 0xBolt sometimes. Just a random 15 year old self taught programmer. Oh also, I absolutely love cats!
+I'm Bolt, also known as 0xBolt sometimes. Just a random 15 year old self taught programmer. Oh also, I really like cats!
 <br><br>
 I love open source and use [EndeavourOS](https://endeavouros.com) as my *current* operating system.
 <br>
