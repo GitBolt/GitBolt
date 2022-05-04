@@ -58,8 +58,4 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 
 # 
 
-<img
-    alt="stats"
-    src="https://github-readme-stats.vercel.app/api?username=gitbolt&count_private=true"
-    width="600"
-/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GitBolt&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
