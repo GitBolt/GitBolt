@@ -46,6 +46,7 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 <img src="icons/sass.svg" width="30px">
 <img src="icons/tailwindcss.svg" width="30px" height="30px">
 <!-- Other technologies -->
+<img src="icons/solana.svg" width="30px" height="30px">
 <img src="icons/docker.svg" width="30px" height="30px">
 <img src="icons/gcloud.svg" width="30px" height="35px">
 <img src="icons/nodejs.svg" width="30px">
