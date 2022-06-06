@@ -59,4 +59,4 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 
 # 
 
-![GitHub Streak](github-readme-streak-stats.herokuapp.com/?user=gitbolt&theme=tokyonight&hide_border=true&date_format=M j[%2C Y]&background=DDDDDD00&stroke=325FA15F&dates=3B63DD)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitbolt&theme=tokyonight&hide_border=true&date_format=M j[%2C Y]&background=DDDDDD00&stroke=325FA15F&dates=3B63DD)
