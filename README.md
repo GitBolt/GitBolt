@@ -1,6 +1,6 @@
 # Heya 👋
 
-I'm Bolt, also known as 0xBolt sometimes. Just a random 15 year old self taught programmer.
+I'm Bolt, also known as 0xBolt sometimes. Just a random 16 year old self taught programmer.
 <br><br>
 I love open source and use [EndeavourOS](https://endeavouros.com) as my *current* operating system.
 <br>
