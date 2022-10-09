@@ -12,9 +12,6 @@ These days, I'm messing around with Web3 and [Solana](https://solana.com)
 <a href="https://discord.com/users/791950104680071188">
   <img align="left" alt="My Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://dev.to/0xbolt/">
-  <img align="left" alt="My Dev to" width="30px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
-</a>
 
 <br>
 
