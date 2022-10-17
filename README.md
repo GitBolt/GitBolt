@@ -1,10 +1,9 @@
-# Heya 👋
+# Hi!
 
-I'm Bolt, also known as 0xBolt sometimes. Just a 16 year old self taught programmer.
+I'm Bolt, also known as 0xBolt sometimes. I'm 16 and working on Web3 projects on [Solana](https://solana.com) blockchain.
 <br><br>
 I love open source and use [EndeavourOS](https://endeavouros.com) as my current operating system.
 <br>
-These days, I'm messing around with Web3 and [Solana](https://solana.com)
 
 <a href="https://twitter.com/0xBolt">
   <img align="left" alt="My Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
