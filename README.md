@@ -5,13 +5,6 @@ I'm Bolt, also known as 0xBolt sometimes. I'm 16 and working on Web3 projects on
 I love open source and use [EndeavourOS](https://endeavouros.com) as my current operating system.
 <br>
 
-<a href="https://twitter.com/0xBolt">
-  <img align="left" alt="My Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.com/users/791950104680071188">
-  <img align="left" alt="My Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
 <br>
 
 ### Languages & Technologies I use or have experience with
