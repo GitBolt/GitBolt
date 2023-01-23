@@ -5,9 +5,7 @@ I'm Bolt, also known as 0xBolt sometimes. I'm 16 and working on Web3 projects on
 I love open source and use [EndeavourOS](https://endeavouros.com) as my current operating system.
 <br>
 
-<br>
-
-### Languages & Technologies I use or have experience with
+### Languages & Technologies I have experience with
 
 <div><!-- make img inline -->
 <!-- Languages -->
