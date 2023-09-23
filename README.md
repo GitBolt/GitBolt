@@ -1,11 +1,11 @@
 # Hi!
 
-I'm Bolt, also known as 0xBolt sometimes. I'm 16 and working on Web3 projects on [Solana](https://solana.com) blockchain.
+I'm Aabis, also known as Bolt online. I'm 17 and working on Web3 projects on [Solana](https://solana.com) blockchain.
 <br><br>
 I love open source and use [EndeavourOS](https://endeavouros.com) as my current operating system.
 <br>
 
-### Languages & Technologies I have experience with
+### Some technologies I've experience with
 
 <div><!-- make img inline -->
 <!-- Languages -->
