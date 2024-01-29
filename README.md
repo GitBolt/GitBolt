@@ -1,9 +1,6 @@
 # Hi!
 
 I'm Aabis, also known as Bolt online. I'm 17 and working on Web3 projects on [Solana](https://solana.com) blockchain.
-<br><br>
-I love open source and use [EndeavourOS](https://endeavouros.com) as my current operating system (Alternatively pointing out that I use arch btw)
-<br>
 
 ### Some technologies I've experience with
 
